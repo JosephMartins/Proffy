@@ -25,18 +25,14 @@
 <h4>Tecnologias Utilizadas</h4>
 <ul>
   <li>ReactJS</li>
-  <li>NodeJS</li>
-  <li>React-native</li>
-  <li>SQLite</li>
-  <li>Knex</li>
   <li>Axios</li>
 </ul>
 
 <h3>Mobile</h3>
 <img src="https://github.com/JosephMartins/proffy/blob/master/gitReadme/fotoefeitos.com__final_1050808787446003057_.jpg">
 <p>
-  Na versão para Android e Ios, conseguimos visualizar todos os casos disponiveis, e acessar detalhes de cada um deles,
-  na pagina de detalhes podemos entrar em contato com a Ong através de seu E-mail ou Whatsapp.
+  Na versão para Android e Ios, conseguimos visualizar todos os proffys disponiveis, e acessar detalhes de cada um deles,
+  na pagina de detalhes podemos entrar em contato com o Proffy através de seu WhatsApp ou Whatsapp.
 </p>
 
 <h4>Tecnologias Utilizadas</h4>
