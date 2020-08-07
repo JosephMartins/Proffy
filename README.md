@@ -122,10 +122,9 @@ Faça um clone desse repositório.
 ### Backend
 
 1. Entre na pasta  `cd backend`;
-2. Rode `npm install`;
-3. Rode `cp .env.example .env` e preencha o arquivo `.env` com as variáveis ambiente da sua maquina;
-4. Rode `knex migrate:latest ` para executar as migrations;
-5. Rode `npm start` para iniciar o servidor.
+2. Rode `npm install ou yarn`;
+3. Rode `knex migrate ` para executar as migrations;
+4. Rode `npm start ou yarn start` para iniciar o servidor.
 
 #Frontend Web
 
@@ -140,11 +139,12 @@ _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 1. A partir da raiz do projeto, entre na pasta do frontend mobile rodando `cd mobile`;
-2. Rode `npm install` para instalar as dependências;
-3. Rode `npm start`.
+2. Rode `npm install ou yarn` para instalar as dependências;
+3. Rode `npm start ou yarn start`.
 4. Instale o expo no seu celular.
 5. Leia o QR Code com a câmera do seu celular e espere a aplicação iniciar!
 
 
 ---
+Feito por Joseph Martins ♥ 
 
