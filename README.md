@@ -16,7 +16,7 @@
 <h2 align="center">Estrutura do App</h2>
 
 <h3>Web</h3>
-<img src="https://github.com/JosephMartins/proffy/blob/master/proffy-web/src/assets/images/landing.svg"/>
+<img src="https://github.com/JosephMartins/proffy/blob/master/gitReadme/web.png"/>
 <p>
   A versão web permite que um professoor1 se cadastre, registre seus dias disponiveis e quais materias é sua especialização, criando-os com seu respectivo 
   nome,descrição e valor a aula.  
@@ -33,7 +33,7 @@
 </ul>
 
 <h3>Mobile</h3>
-<img src="https://user-images.githubusercontent.com/48302018/77809432-5b60b780-706e-11ea-9612-5e1f10294e1f.png">
+<img src="https://github.com/JosephMartins/proffy/blob/master/gitReadme/fotoefeitos.com__final_1050808787446003057_.jpg">
 <p>
   Na versão para Android e Ios, conseguimos visualizar todos os casos disponiveis, e acessar detalhes de cada um deles,
   na pagina de detalhes podemos entrar em contato com a Ong através de seu E-mail ou Whatsapp.
